@@ -13,25 +13,25 @@
 
 ## 🛠️ Technologies & Tools
 <div align="center" style="display: flex; justify-content: left; flex-wrap: wrap; gap: 50px;">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="flex: 1 1 20%;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="flex: 1 1 30%;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="flex: 1 1 40%;">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
 </div>
