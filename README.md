@@ -9,15 +9,14 @@ I'm a passionate Full Stack Developer with a love for coding and problem-solving
 <a href="https://www.linkedin.com/in/sathish-s-666b11255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sathish2202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
-
-## GitHub Stats
+## Current Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Sathish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SathishS2202&show_icons=true&theme=radical" alt="Sathish's GitHub stats" />
 </p>
 
 ## Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Sathish's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishS2202&layout=compact&theme=radical" alt="Sathish's top languages" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
