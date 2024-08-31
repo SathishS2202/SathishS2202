@@ -56,10 +56,10 @@
 ## 📈 Current Stats & Top Languages
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1 1 45%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SathishS2202&show_icons=true&theme=highcontrast" alt="Sathish's GitHub stats" style="width: 70%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SathishS2202&show_icons=true&theme=highcontrast" alt="Sathish's GitHub stats" style="width: 50%;">
   </div>
   <div style="flex: 1 1 45%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishS2202&layout=compact&theme=highcontrast" alt="Sathish's top languages" style="width: 70%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishS2202&layout=compact&theme=highcontrast" alt="Sathish's top languages" style="width: 50%;">
   </div>
 </div>
 
