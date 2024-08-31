@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Profile! 🚀, I'm Sathish S</h1>
-<h3 align="center">💡 Full Stack Developer | Transforming Ideas into Scalable Solutions from India</h3>
+<h3 align="center">💡 Full Stack Developer | Transforming Ideas into Scalable Solutions </h3>
 
 ## About Me
 I am a dedicated Full Stack Developer with a passion for creating dynamic and responsive web applications. My expertise lies in turning complex challenges into user-friendly, efficient, and scalable solutions. With a strong foundation in both front-end and back-end technologies, I strive to build seamless and interactive user experiences.
