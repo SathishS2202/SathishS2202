@@ -30,11 +30,6 @@ I'm a passionate Full Stack Developer with a love for coding and problem-solving
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## Currently Learning
-- Exploring advanced concepts in React.js
-- Deepening my knowledge in backend development with Node.js and MongoDB
-- Working on improving my problem-solving skills with competitive programming on LeetCode
-
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sathish-s-666b11255/) or reach out via [email](mailto:your-email@example.com).
 
