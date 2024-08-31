@@ -12,12 +12,12 @@
 ---
 
 ## 🛠️ Technologies & Tools
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
+<div align="center" style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -48,24 +48,6 @@
   </a>
   <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</div>
-
----
-
-## 🤝 Connect with Me
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/SathishS2202" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/sathish-s-666b11255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
