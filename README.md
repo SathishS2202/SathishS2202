@@ -10,15 +10,6 @@ I'm a passionate Full Stack Developer with a love for coding and problem-solving
 <a href="https://www.leetcode.com/https://leetcode.com/u/sathish2202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sathish2202/" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Sathish's GitHub stats" />
-</p>
-
-## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Sathish's top languages" />
-</p>
 
 ## Featured Projects
 Here are some of my favorite projects that I've worked on:
@@ -45,11 +36,9 @@ Here are some of my favorite projects that I've worked on:
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sathish-s-666b11255/) or reach out via [email](mailto:your-email@example.com).
 
-## Fun Fact
-Did you know? I once built a web app in under 48 hours during a hackathon, and it won the first prize!
 
 ## Quote I Live By
-_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ## Contributions
 I love collaborating on open-source projects. If you'd like to contribute or need help with a project, feel free to reach out!
