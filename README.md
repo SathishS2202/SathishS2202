@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Welcome to My Profile! I'm Sathish S</h1>
-<h3 align="center">💡 Full Stack Developer | Transforming Complex Challenges into Elegant Code from India</h3>
+<h3 align="center">💡 Full Stack Developer | Turning Complex Challenges into Elegant Code Solutions</h3>
 
 ---
 
