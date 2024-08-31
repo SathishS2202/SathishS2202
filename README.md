@@ -10,25 +10,6 @@ I am a dedicated Full Stack Developer with a passion for creating dynamic and re
 <a href="https://www.leetcode.com/https://leetcode.com/u/sathish2202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sathish2202/" height="30" width="40" /></a>
 </p>
 
-## What I Bring to the Table
-- **Problem Solver:** I excel at breaking down complex problems and designing efficient algorithms to solve them. My solutions are not only functional but also optimized for performance.
-- **Team Player:** I believe in the power of collaboration. I have successfully worked in diverse teams, contributing to both small-scale and large-scale projects.
-- **Innovator:** I enjoy experimenting with new technologies and frameworks. Whether it's a new front-end library or a cutting-edge backend tool, I'm always eager to learn and integrate it into my projects.
-
-## Highlighted Achievements
-- **Optimized Performance:** Improved the load time of a client’s e-commerce site by 30% through code optimization and implementing efficient database queries.
-- **Scalable Solutions:** Developed a scalable microservices architecture that supported a 50% increase in user traffic without any downtime.
-- **Recognition:** Consistently recognized for delivering projects ahead of schedule while maintaining high-quality standards.
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Sathish's GitHub stats" />
-</p>
-
-## Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Sathish's top languages" />
-</p>
 
 ## Skills & Expertise
 <h3 align="left">Languages and Tools:</h3>
